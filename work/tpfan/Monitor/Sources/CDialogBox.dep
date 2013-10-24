@@ -1,0 +1,2 @@
+Sources\CDialogBox.o: Sources\CDialogBox.cpp Sources\CDialogBox.h \
+  Resources/Resource.h

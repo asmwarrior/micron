@@ -1,0 +1,1 @@
+FanCtrl.o: FanCtrl.c FanCtrl.h ECCtrl.h

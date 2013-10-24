@@ -1,0 +1,2 @@
+Sources\CMonitorApp.o: Sources\CMonitorApp.cpp Sources\CMonitorApp.h \
+  Sources\CDialogBox.h Resources/Resource.h
