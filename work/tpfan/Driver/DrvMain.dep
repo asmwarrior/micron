@@ -1,0 +1,1 @@
+DrvMain.o: DrvMain.c DrvMain.h FanCtrl.h ECCtrl.h

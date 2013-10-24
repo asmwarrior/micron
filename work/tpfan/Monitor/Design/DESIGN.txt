@@ -1,0 +1,15 @@
+
+Data Specifications
+
+  From general considerations, the value read from the sensors should not be
+the actual celsius value. The core temperature could be as low as 45, but
+normally it is around 50. There is no sensible heat from the outlet of the fan
+at that temperature range.
+
+  After movie tests, the fan usually starts at 55, and getting to middle speed
+around 60. It seems that the internal controller is better than thought to be.
+
+  There should be more tests to go, and currently I should build the smart mode
+a little higher than the default system. Start the fan around 60, middle speed
+at 65, high speed around 70.
+
